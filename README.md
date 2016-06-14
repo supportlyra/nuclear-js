@@ -12,7 +12,7 @@ Traditional Flux architecture built with ImmutableJS data structures.
 
 [https://optimizely.github.io/nuclear-js/](https://optimizely.github.io/nuclear-js/)
 
-## Design Philosophy
+## The Design Philosophy
 
 - **Simple Over Easy** - The purpose of NuclearJS isn't to write the most expressive TodoMVC anyone's ever seen.  The goal of NuclearJS is to provide a way to model data that is easy to reason about and decouple at very large scale.
 
